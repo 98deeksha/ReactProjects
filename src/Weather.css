@@ -1,0 +1,8 @@
+.mains {
+    display: flex;
+    flex-direction: column;
+    margin: 10em 70em;
+    padding-left: 10em;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
